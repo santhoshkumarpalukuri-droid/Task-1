@@ -8,4 +8,6 @@ If the user is not authenticated, access is denied and they are redirected back 
 
 The tech stack we used are node.js and express and mongodb for database.
 
- Protected routes are secured using authentication middleware, which checks whether the user is logged in before serving restricted content. 
+Protected routes are secured using authentication middleware, which checks whether the user is logged in before serving restricted content. 
+
+To run the project we need to enter command in terminal node server.js
